@@ -12,3 +12,5 @@ template: '{"NAME":"Deta 4G Switch","GPIO":[158,0,0,19,18,21,0,0,23,20,22,24,17]
 link: https://www.bunnings.com.au/deta-smart-touch-activated-quad-gang-light-switch-with-grid-connect_p0161015
 link2: https://www.bunnings.co.nz/deta-grid-connect-smart-quad-gang-touch-light-switch_p0161015
 ---
+Alternate configuration for use with 2 x Moes MS-105B 2 Gang Dimmer
+{"NAME":"Deta 4G Button","GPIO":[576,0,0,162,161,224,0,0,226,163,225,227,160,0],"FLAG":0,"BASE":18}
